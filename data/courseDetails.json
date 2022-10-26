@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "React JS",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150,
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React makes it painless to create interactive UIs.",
+    "startingDate": "30 Oct"
+  },
+  {
+    "id": 2,
+    "name": "React JS",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150,
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React makes it painless to create interactive UIs.",
+    "startingDate": "30 Oct"
+  },
+  {
+    "id": 3,
+    "name": "React JS",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150,
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React makes it painless to create interactive UIs.",
+    "startingDate": "30 Oct"
+  },
+  {
+    "id": 4,
+    "name": "React JS",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150,
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React makes it painless to create interactive UIs.",
+    "startingDate": "30 Oct"
+  },
+  {
+    "id": 5,
+    "name": "React JS",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150,
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React makes it painless to create interactive UIs.",
+    "startingDate": "30 Oct"
+  },
+  {
+    "id": 6,
+    "name": "React JS",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150,
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React makes it painless to create interactive UIs.",
+    "startingDate": "30 Oct"
+  }
+]
