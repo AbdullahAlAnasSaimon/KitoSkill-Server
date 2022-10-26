@@ -7,9 +7,14 @@ app.use(cors());
 
 const courses = require('./data/courses.json');
 const courseDetails = require('./data/courseDetails.json');
+const topics = require('./data/topics.json');
 
 app.get('/', (req, res) => {
   res.send('kito skill data running');
+})
+
+app.get('/topics', (req, res) => {
+  res.send(topics);
 })
 
 app.get('/courses', (req, res) => {

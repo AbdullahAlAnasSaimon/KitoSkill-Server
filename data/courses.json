@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "React JS",
+    "name": "Artificial Intelegence",
     "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
     "price": 119,
     "author": "Alexjander",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "React JS",
+    "name": "Data Structure & Algorithm",
     "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
     "price": 119,
     "author": "Alexjander",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "React JS",
+    "name": "Blockchain Technology",
     "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
     "price": 119,
     "author": "Alexjander",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "name": "React JS",
+    "name": "Cyber Security",
     "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
     "price": 119,
     "author": "Alexjander",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "name": "React JS",
+    "name": "WEB 3.0",
     "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
     "price": 119,
     "author": "Alexjander",
@@ -46,7 +46,34 @@
   },
   {
     "id": 6,
-    "name": "React JS",
+    "name": "Networking",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150
+  },
+  {
+    "id": 7,
+    "name": "Programming Fundamentals",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150
+  },
+  {
+    "id": 8,
+    "name": "Cloud Computing",
+    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "price": 119,
+    "author": "Alexjander",
+    "seats": 45,
+    "duration": 150
+  },
+  {
+    "id": 9,
+    "name": "Data Science",
     "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
     "price": 119,
     "author": "Alexjander",
