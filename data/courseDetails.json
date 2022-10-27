@@ -45,7 +45,7 @@
   {
     "id": 3,
     "name": "Blockchain Technology",
-    "photo": "https://i.postimg.cc/5Nq2qZxj/business-network-4407643-3659246.png",
+    "photo": "https://i.postimg.cc/7hNr0rgk/crypto-blockchain-connection-4914006-4090726.png",
     "price": 74.99,
     "author": "Brad Hussey",
     "seats": 30,
@@ -66,7 +66,7 @@
   {
     "id": 4,
     "name": "Cyber Security",
-    "photo": "https://i.postimg.cc/brPjZwSg/cloud-server-5617613-4674324.png",
+    "photo": "https://i.postimg.cc/KzB2cMj4/cyber-security-metaverse-6374430-5284587.png",
     "price": 99.99,
     "author": "Ardit Sulce",
     "seats": 60,
@@ -88,7 +88,7 @@
   {
     "id": 5,
     "name": "WEB 3.0",
-    "photo": "https://i.postimg.cc/7hNr0rgk/crypto-blockchain-connection-4914006-4090726.png",
+    "photo": "https://i.postimg.cc/KcCMHSSN/web-3-5796855-4863023.png",
     "price": 129.99,
     "author": "John Harper",
     "seats": 30,
@@ -108,7 +108,7 @@
   {
     "id": 6,
     "name": "Networking",
-    "photo": "https://i.postimg.cc/KzB2cMj4/cyber-security-metaverse-6374430-5284587.png",
+    "photo": "https://i.postimg.cc/5Nq2qZxj/business-network-4407643-3659246.png",
     "price": 59.99,
     "author": "Luis Ramirez",
     "seats": 125,
@@ -130,7 +130,7 @@
   {
     "id": 7,
     "name": "Basic Programming",
-    "photo": "https://i.postimg.cc/MKd8Gx60/data-science-server-6342279-5231435.png",
+    "photo": "https://i.postimg.cc/dV5QgrZY/male-developer-5359995-4492094.png",
     "price": 119,
     "author": "Colt Steel",
     "seats": 89.99,
@@ -152,7 +152,7 @@
   {
     "id": 8,
     "name": "Cloud Computing",
-    "photo": "https://i.postimg.cc/dV5QgrZY/male-developer-5359995-4492094.png",
+    "photo": "https://i.postimg.cc/brPjZwSg/cloud-server-5617613-4674324.png",
     "price": 109.99,
     "author": "Joe Parys",
     "seats": 80,
@@ -174,7 +174,7 @@
   {
     "id": 9,
     "name": "Data Science",
-    "photo": "https://i.postimg.cc/KcCMHSSN/web-3-5796855-4863023.png",
+    "photo": "https://i.postimg.cc/MKd8Gx60/data-science-server-6342279-5231435.png",
     "price": 84.99,
     "author": "Shahzaib",
     "seats": 45,
