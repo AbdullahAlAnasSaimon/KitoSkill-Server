@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Artificial Intelegence",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/ai-brain-5796837-4863005.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Data Structure & Algorithm",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/algorithm-6377856-5283616.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Blockchain Technology",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/crypto-blockchain-connection-4914006-4090726.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Cyber Security",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/cyber-security-metaverse-6374430-5284587.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "WEB 3.0",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/web-3-5796855-4863023.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Networking",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/business-network-4407643-3659246.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Programming Fundamentals",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/male-developer-5359995-4492094.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Cloud Computing",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-server-5617613-4674324.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Data Science",
-    "photo": "https://cdn3d.iconscout.com/3d/free/thumb/react-5645899-4695757.png",
+    "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/data-science-server-6342279-5231435.png",
     "price": 119,
     "author": "Alexjander",
     "seats": 45,
