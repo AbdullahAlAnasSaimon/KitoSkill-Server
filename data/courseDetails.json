@@ -8,7 +8,18 @@
     "seats": 50,
     "duration": 150,
     "startingDate": "30 Oct",
-    "details": "Artificial intelligence (AI) is the ability of machines to replicate or enhance human intellect, such as reasoning and learning from experience. Artificial intelligence has been used in computer programs for years, but it is now applied to many other products and services."
+    "details": "Artificial intelligence (AI) is the ability of machines to replicate or enhance human intellect, such as reasoning and learning from experience. Artificial intelligence has been used in computer programs for years, but it is now applied to many other products and services.",
+    "content": [
+      "Fundamentals of Rainforcement Learning",
+      "Q-Learning Intuition",
+      "Q-Learning Visualization",
+      "Deep Q-Learning Intuition - Acting",
+      "Deep Q-Learning Implementation",
+      "Deep Convolutional Q-Learning Intuition",
+      "Deep Convolutional Implementation",
+      "The three A's in A3C Learning Intuition",
+      "The three A's in A3C Implementation"
+    ]
   },
   {
     "id": 2,
@@ -19,7 +30,17 @@
     "seats": 50,
     "duration": 120,
     "startingDate": "30 Oct",
-    "details": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs."
+    "details": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
+    "content": [
+      "Arrays and Big-O Notation",
+      "Sort Algorithm",
+      "Lists, Stacks",
+      "Queues",
+      "Hashtables",
+      "Search Algorithms",
+      "Binary Tree",
+      "Heaps"
+    ]
   },
   {
     "id": 3,
@@ -30,7 +51,17 @@
     "seats": 30,
     "duration": 90,
     "startingDate": "30 Oct",
-    "details": "Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain."
+    "details": "Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.",
+    "content": [
+      "What is a Blockchain",
+      "What is Cryptography",
+      "Learn Blockchain Fundamentals",
+      "Understand how Cryptocurrencies work",
+      "Real-world applications",
+      "How Blockchain affecting real world",
+      "What is Cryptographic Hash?",
+      "How distributed P2P networks are working"
+    ]
   },
   {
     "id": 4,
@@ -41,7 +72,18 @@
     "seats": 60,
     "duration": 180,
     "startingDate": "30 Oct",
-    "details": "Computer security, cybersecurity, or information technology security is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide."
+    "details": "Computer security, cybersecurity, or information technology security is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "content": [
+      "Foundations of Cybersecurity",
+      "Network Security",
+      "Man-in-the-Middle Attack, DoS/DDoS, Password Attacks",
+      "Web App Architecture, SQL Injections, Blind SQL Injections",
+      "Viruses, Worms, Trojans, Spyware, Adware, Ransomware",
+      "Primer on Computer Networks, Protocols, HTTPs, TLS/SSL",
+      "CIA, Security Governance, Identity Federation, Cryptography",
+      "Practice cryptography by generating public-private keys using RSA",
+      "Spot phishing emails, investigate whether the links or attachments"
+    ]
   },
   {
     "id": 5,
@@ -52,7 +94,16 @@
     "seats": 30,
     "duration": 60,
     "startingDate": "30 Oct",
-    "details": "Web3 is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics. Web 3.0 (Web3) is the third generation of the evolution of web technologies. The web, also known as the World Wide Web, is the foundational layer"
+    "details": "Web3 is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics. Web 3.0 (Web3) is the third generation of the evolution of web technologies. The web, also known as the World Wide Web, is the foundational layer",
+    "content": [
+      "Fundamentals of WEB 3.0",
+      "Decentralisation",
+      "3D Graphics",
+      "Connectivity and Ubiquityg",
+      "New industries that are emerging from the metaverse",
+      "Web 3.0 Afficionados",
+      "Trustless and Permissionless"
+    ]
   },
   {
     "id": 6,
@@ -63,7 +114,18 @@
     "seats": 125,
     "duration": 200,
     "startingDate": "30 Oct",
-    "details": "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting. Networking often begins with a single point of common ground. a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other."
+    "details": "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting. Networking often begins with a single point of common ground. a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other.",
+    "content": [
+      "Network basics",
+      "Network architectures (OSI Model)",
+      "What are hubs, switches, routers?",
+      "How is data forwarded through a network?",
+      "Cabling and network topologies",
+      "IP addresses & Subnetting",
+      "DNS and DHCP",
+      "TCP and UDP",
+      "Routing & VLANs"
+    ]
   },
   {
     "id": 7,
@@ -74,7 +136,18 @@
     "seats": 89.99,
     "duration": 120,
     "startingDate": "30 Oct",
-    "details": "Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++. Created by Pamela Fox."
+    "details": "Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++. Created by Pamela Fox.",
+    "content": [
+      "Fundamentals of Programming",
+      "How do programming language work",
+      "Data Type, Operator",
+      "Function, Object, Array",
+      "Variable, Conditions, loop",
+      "Structured Programming",
+      "Modular Programming",
+      "Object Oriented Programming",
+      "Functional Programming"
+    ]
   },
   {
     "id": 8,
@@ -85,7 +158,18 @@
     "seats": 80,
     "duration": 100,
     "startingDate": "30 Oct",
-    "details": "Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center."
+    "details": "Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center.",
+    "content": [
+      "The Building Blocks of Cloud Computing",
+      "Introduction to Cloud Computing",
+      "Demystifying Cloud Computing Architecture",
+      "AWS Basics",
+      "Amazon Elastic Compute Cloud (EC2)",
+      "AWS Storage Services",
+      "DevOps on AWS - Creating a Code Pipeline",
+      "Content Delivery and DNS Services",
+      "Application Integration and Loose Coupling"
+    ]
   },
   {
     "id": 9,
@@ -96,6 +180,17 @@
     "seats": 45,
     "duration": 80,
     "startingDate": "30 Oct",
-    "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains."
+    "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains.",
+    "content": [
+      "What is Data Science?",
+      "Data Visualization",
+      "Navigating Tableau - Measures and Dimensions",
+      "Data Modelling",
+      "Multiple Linear Regression",
+      "Your first logistic regression",
+      "Data Preparation",
+      "Business Intelligence (BI) Tools",
+      "ETL Phase Data Wrangling before the load"
+    ]
   }
 ]
